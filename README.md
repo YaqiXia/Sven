@@ -11,7 +11,7 @@ The code for dataset downloading, processing, and dynamic graph sampling modules
 + Asynchronous pipelining test: `test_ddp_staleness.py`.
 
 # Cite
-We would appreciate citations to the following paper:
+We would appreciate citations to the following papers:
 ```
 @inproceedings{xia2023redundancy,
   title={Redundancy-free high-performance dynamic GNN training with hierarchical pipeline parallelism},
