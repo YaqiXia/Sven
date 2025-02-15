@@ -10,6 +10,8 @@ The code for dataset downloading, processing, and dynamic graph sampling modules
 + Microbatch pipelining test: `test_pipeline.py`;
 + Asynchronous pipelining test: `test_ddp_staleness.py`.
 
+**Some specific implementations can be found in this [repo](https://github.com/yatorho/SC24_ADE) (e.g., micro-batching and distributed parallelism).**
+
 # Cite
 We would appreciate citations to the following papers:
 ```
